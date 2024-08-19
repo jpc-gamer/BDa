@@ -60,8 +60,9 @@ select Pacientes.id_paciente, Pacientes.nome, Pacientes.especie, Pacientes.raca,
 Pacientes.id_veterinario, Veterinarios.nome from Pacientes, Veterinarios 
 where Pacientes.id_veterinario = Veterinarios.id_veterinario;
 
-
 select * from consultas where descricao like '%rotina%'; 
 
 select * from pacientes order by nome; 
+
+select * from veterinarios where especialidade = 'Oftalmologia' and id_veterinario = '3'; 
 
