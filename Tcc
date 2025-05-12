@@ -1,0 +1,28 @@
+24/04 - Esboço do protótipo arduino 
+Nesta etapa do trabalho, foi desenvolvido o esboço do protótipo utilizando a plataforma Arduino. Nessa fase inicial, foram definidos os principais componentes eletrônicos e estruturais do sistema, com o objetivo de validar o conceito e planejar a montagem física do projeto. O esboço serviu como base para os testes preliminares e para o alinhamento das próximas etapas de desenvolvimento.
+
+25/04 - Pré-Design * Questionar alguns pontos, como por exemplo preferências, qual a base para seguir. 
+
+No dia 25/04, foi feita a etapa de Pré-Design no site Figma. Nessa fase, a gente levantou algumas dúvidas importantes, como as preferências dos usuários e qual seria a base visual e funcional ideal para seguir no projeto. Essas decisões ajudaram a guiar o início do design da interface de forma mais clara e organizada.
+
+26/04 - Início dos testes de arduino no laboratio de hardware 
+
+No dia 26/04, começaram os testes com o Arduino no laboratório de hardware. Foi feita a verificação das peças disponíveis para ver se estavam funcionando corretamente. Além disso, foram desenvolvidos pequenos programas de teste para checar o funcionamento de sensores, módulos e outros componentes do projeto.
+
+28/04 - Início da documentação, introdução, definição de problema, objetivo geral e específico. 
+
+Foi iniciado o processo de documentação do projeto. Nessa etapa, começamos pela introdução, definição do problema, objetivo geral e objetivos específicos. Também demos início a uma nova versão da documentação, agora com o tema específico do projeto. Aproveitamos parte das pesquisas já feitas anteriormente e começamos a implementar novas informações e melhorias no conteúdo.
+
+01/05 - Linguagens de programação 
+
+
+05/05 - Pich avaliativo * melhorar a descrição dos objetivos 
+
+Durante essa apresentação, recebemos alguns feedbacks importantes, principalmente sobre a necessidade de melhorar a descrição dos objetivos. A partir disso, foi identificado que os objetivos precisavam estar mais claros e bem definidos para facilitar o entendimento da proposta do projeto.
+
+
+12/05 - Revisão com o professor da documentação 
+
+
+19/05 - Caso de Uso 
+16/06 - apresentação auditório
