@@ -1,0 +1,636 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Página Principal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <header>
+    <nav class="menu">
+      <a href="#" class="logo">Logo</a>
+
+      <ul class="nav_links">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Contato</a></li>
+        <li><a href="#">Sobre</a></li>
+      </ul>
+
+      <a href="#" class="botao_consulta">Consulta</a>
+    </nav>
+  </header>
+
+  <main>
+
+    <section class="principal">
+      <article class="container_principal">
+
+        <div class="principal_texto">
+          <h1 class="titulo_principal">
+            Seu <span>direito</span> nossa causa
+          </h1>
+
+          <p class="descricao">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Ut enim ad minim veniam.
+          </p>
+
+          <a href="#" class="botao_contato">Contato</a>
+        </div>
+
+        <figure class="imagem_estatua">
+          <img src="" alt="Estátua da Justiça">
+        </figure>
+
+      </article>
+    </section>
+
+    <section class="barra-estatisticas">
+      <ul class="conteiner grade-estatisticas">
+
+        <li class="item-estatistica">
+          <img src="img/Calendario.png"
+               alt="Calendário"
+               class="imagem-icone-estatistica">
+
+          <p>
+            <strong class="numero-estatistica">5+</strong>
+            <span class="rotulo-estatistica">Anos de Carreira</span>
+          </p>
+        </li>
+
+        <li class="item-estatistica">
+          <img src="img/Pessoa.png"
+               alt="Clientes"
+               class="imagem-icone-estatistica">
+
+          <p>
+            <strong class="numero-estatistica">50+</strong>
+            <span class="rotulo-estatistica">Clientes Atendidos</span>
+          </p>
+        </li>
+
+        <li class="item-estatistica">
+          <img src="img/joia.png"
+               alt="Casos"
+               class="imagem-icone-estatistica">
+
+          <p>
+            <strong class="numero-estatistica">15+</strong>
+            <span class="rotulo-estatistica">Casos Resolvidos</span>
+          </p>
+        </li>
+
+      </ul>
+    </section>
+
+    <table>
+      <tr>
+          <td>
+              <h1 class="titulo-areas">Áreas de Atuação</h1>
+              <div class="linha"></div>
+          </td>
+      </tr>
+  </table>
+
+    <section class="areas-atuacao">
+
+      <article class="cartao">
+        <img src="img/Consumidor.png"
+             alt="Ícone Defesa do Consumidor"
+             class="icone-cartao">
+
+        <h2 class="titulo-cartao">Defesa do Consumidor</h2>
+
+        <p class="descricao-cartao">
+          Defesa dos seus direitos nas relações de consumo.
+        </p>
+
+        <a href="#" class="link-cartao">Saiba mais &rarr;</a>
+      </article>
+
+      <article class="cartao">
+        <img src="img/familia.png"
+             alt="Ícone Direito da Família"
+             class="icone-cartao">
+
+        <h2 class="titulo-cartao">Direito da Família</h2>
+
+        <p class="descricao-cartao">
+          Defesa dos seus direitos nas relações de família.
+        </p>
+
+        <a href="#" class="link-cartao">Saiba mais &rarr;</a>
+      </article>
+
+      <article class="cartao">
+        <img src="img/trabalhista.png"
+             alt="Ícone Direitos Trabalhistas"
+             class="icone-cartao">
+
+        <h2 class="titulo-cartao">Direitos Trabalhistas</h2>
+
+        <p class="descricao-cartao">
+          Defesa dos seus direitos nas relações trabalhistas.
+        </p>
+
+        <a href="#" class="link-cartao">Saiba mais &rarr;</a>
+      </article>
+
+      <article class="cartao">
+        <img src="img/civil.png"
+             alt="Ícone Legislação Civil"
+             class="icone-cartao">
+
+        <h2 class="titulo-cartao">Legislação Civil</h2>
+
+        <p class="descricao-cartao">
+          Defesa dos seus direitos na área civil.
+        </p>
+
+        <a href="#" class="link-cartao">Saiba mais &rarr;</a>
+      </article>
+
+    </section>
+
+    <section class="sobre">
+      <figure class="img_advogada">
+        <img src="" alt="Foto da advogada">
+      </figure>
+
+      <article class="sobre_texto">
+        <h2 class="sobre_titulo">Sobre a Doutora</h2>
+
+        <p class="sobre_descricao">
+          Atuação pautada na ética, responsabilidade e dedicação.
+          O objetivo é oferecer um atendimento personalizado,
+          com foco na melhor solução para cada caso.
+        </p>
+
+        <ul class="check_list">
+          <li>
+            <img src="img/Check.png" alt="">
+            Atendimento humanizado
+          </li>
+
+          <li>
+            <img src="img/Check.png" alt="">
+            Compromisso com o cliente
+          </li>
+
+          <li>
+
+            <img src="img/Check.png" alt="">
+            Transparência e ética profissional
+          </li>
+        </ul>
+
+        <a href="#" class="botao_contato">Contato</a>
+      </article>
+    </section>
+      
+    <section class="noticias">
+
+      <h2 class="noticias_titulo">Últimos Casos</h2>
+
+      <article class="caso_card">
+        <img src="img/Devino antreprenor, impreuna este simplu! 1.png"
+             alt="Caso"
+             class="caso-img">
+
+        <h3 class="caso_titulo">Caso tal</h3>
+
+        <p class="caso_texto">
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+        </p>
+
+        <a href="#" class="card_link">Saiba mais &rarr;</a>
+      </article>
+
+      <article class="caso_card">
+        <img src="img/Command Your Contracts, Command Your Future 1.png"
+             alt="Caso"
+             class="caso-img">
+
+        <h3 class="caso_titulo">Caso tal</h3>
+
+        <p class="caso_texto">
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+        </p>
+
+        <a href="#" class="card_link">Saiba mais &rarr;</a>
+      </article>
+
+      <article class="caso_card">
+        <img src="img/transferir (6) 1.png"
+             alt="Caso"
+             class="caso-img">
+
+        <h3 class="caso_titulo">Caso tal</h3>
+
+        <p class="caso_texto">
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+        </p>
+
+        <a href="#" class="card_link">Saiba mais &rarr;</a>
+      </article>
+
+    </section>
+
+  </main>
+
+  <footer>
+    <section class="container_footer">
+
+      <article class="footer_info">
+        <h2>Logo</h2>
+
+        <p>
+          Advocacia com propósito: proteger direitos,
+          construir confiança.
+        </p>
+      </article>
+
+      <nav class="footer_info">
+        <h2>Navegação</h2>
+
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Sobre</a></li>
+          <li><a href="#">Áreas de atuação</a></li>
+          <li><a href="#">Contato</a></li>
+        </ul>
+      </nav>
+
+      <address class="footer_info">
+        <h2>Contato</h2>
+
+<<<<<<< HEAD
+        <p>(11) 9999-9999</p>
+        <p>contato@exemplo.com</p>
+        <p>São Paulo, SP</p>
+=======
+        <img src="img/Vector (2).png" alt=""><p>(11) 9999-9999</p>
+        <img src="img/Vector (3).png" alt=""> <p>contato@exemplo.com</p>
+        <img src="img/Vector (4).png" alt=""><p>São Paulo, SP</p>
+>>>>>>> 9f8a408 (HTML - 01/09)
+      </address>
+
+      <article class="footer_info">
+        <h2>Atendimento</h2>
+
+        <p>
+          Atendimento online e presencial,
+          agende sua consulta.
+        </p>
+
+        <a href="#" class="btn-maroon">Consulta</a>
+      </article>
+
+      <nav class="social_links" aria-label="Redes sociais">
+        <a href="#">
+          <img src="" alt="">
+          WhatsApp
+        </a>
+
+        <a href="#">
+          <img src="" alt="">
+          Instagram
+        </a>
+
+        <a href="#">
+          <img src="" alt="">
+          LinkedIn
+        </a>
+      </nav>
+
+    </section>
+  </footer>
+
+</body>
+</html>
+-------------------------------------
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f5f5f5;
+    color: #4a241b;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    margin-top: 0;
+    background-color: #ffffff;
+}
+
+.menu {
+    height: 68px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 95px;
+}
+
+.logo {
+    color: #3f2419;
+    font-family: Georgia, serif;
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.nav_links {
+    display: flex;
+    gap: 45px;
+    list-style: none;
+}
+
+.nav_links a {
+    color: #3f2419;
+    font-family: Georgia, serif;
+    font-size: 16px;
+    text-decoration: none;
+    transition: 0.2s;
+}
+
+.nav_links a:hover {
+    color: #7d1f1f;
+    text-decoration: underline;
+    text-underline-offset: 7px;
+}
+
+.botao_consulta {
+    background-color: #7d1f1f;
+    color: white;
+    padding: 11px 22px;
+    border-radius: 5px;
+    font-family: Georgia, serif;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.principal {
+    background-color: #fff1d2;
+}
+
+.container_principal {
+    height: 423px;
+    display: flex;
+}
+
+.principal_texto {
+    width: 55%;
+    padding: 58px 30px 40px 67px;
+}
+
+.titulo_principal {
+    max-width: 480px;
+    color: #4a241b;
+    font-family: Georgia, serif;
+    font-size: 48px;
+    line-height: 1.3;
+    font-weight: bold;
+}
+
+.titulo_principal span {
+    color: #7d1f1f;
+}
+
+.titulo_principal::after {
+    content: "";
+    display: block;
+    width: 100px;
+    height: 2px;
+    background-color: #bd9851;
+    margin-top: 13px;
+}
+
+.descricao {
+    max-width: 390px;
+    margin-top: 16px;
+    color: #3f312c;
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+.botao_contato {
+    display: inline-block;
+    margin-top: 42px;
+    padding: 10px 20px;
+    background-color: #7d1f1f;
+    color: white;
+    border-radius: 4px;
+    font-family: Georgia, serif;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.botao_contato::after {
+    content: " →";
+    font-size: 18px;
+}
+
+.imagem_estatua {
+    width: 45%;
+    height: 423px;
+    margin: 0;
+    overflow: hidden;
+}
+
+.imagem_estatua img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: cover;
+    object-position: center;
+}
+
+.barra-estatisticas {
+    background-color: #7d1f1f;
+}
+
+.grade-estatisticas {
+    height: 84px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    list-style: none;
+}
+
+.item-estatistica {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    position: relative;
+}
+
+.item-estatistica:not(:last-child)::after {
+    content: "";
+    position: absolute;
+    right: 0;
+    top: 16px;
+    width: 2px;
+    height: 53px;
+    background-color: #bd9851;
+}
+
+.imagem-icone-estatistica {
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+}
+
+.item-estatistica p {
+    display: flex;
+    flex-direction: column;
+}
+
+.numero-estatistica {
+    color: #fff7df;
+    font-family: Georgia, serif;
+    font-size: 30px;
+    font-weight: normal;
+    margin-bottom: 6px;
+}
+
+.rotulo-estatistica {
+    color: #fff7df;
+    font-family: Georgia, serif;
+    font-size: 10px;
+    text-transform: uppercase;
+}
+
+.titulo-areas {
+    margin-top: 40px;
+    color: #4a241b;
+    font-size: 26px;
+    margin-left: 300px;
+    margin-bottom: 5px;
+}
+
+.linha {
+    width: 80px;
+    height: 1px;
+    background-color: #4a241b;
+    margin-left: 300px;
+}
+
+.areas-atuacao {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    padding: 30px;
+    height: 350px;
+}
+
+.cartao {
+    width: 220px;
+    height: 280px;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+}
+
+.titulo-cartao {
+    font-size: 19px;
+    color: #4a241b;
+    margin-bottom: 15px;
+}
+
+.icone-cartao {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 15px;
+}
+
+.descricao-cartao {
+    font-size: 13px;
+    color: #666;
+    margin-bottom: 20px;
+}
+
+.link-cartao {
+    font-size: 13px;
+    color: #4a241b;
+    text-decoration: none;
+}
+
+.link-cartao:hover {
+    text-decoration: underline;
+}
+
+.sobre {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    padding: 50px 60px;
+}
+
+.img_advogada {
+    width: 350px;
+    height: 350px;
+}
+
+.img_advogada img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.sobre_texto {
+    text-align: left;
+}
+
+.sobre_titulo {
+    color: #4a241b;
+    font-size: 26px;
+    margin-bottom: 15px;
+}
+
+.sobre_descricao {
+    color: #666;
+    font-size: 15px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+.check_list {
+    list-style: none;
+    padding: 0;
+}
+
+.check_list li {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 12px;
+    color: #4a241b;
+}
+
+.check_list img {
+    width: 18px;
+    height: 18px;
+}
+
+.botao_contato {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 25px;
+    background-color: #4a241b;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
